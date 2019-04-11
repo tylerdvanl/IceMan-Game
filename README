@@ -1,0 +1,12 @@
+#IceMan-Game
+
+This is the final project for a class titled "Advanced Programming in C++".  We were given a fifty-four page design document 
+and an engine to work with in the beginning.  
+The only files I wrote anything into are:
+ 
+  Actor.cpp
+  Actor.h
+  StudentWorld.cpp
+  StudentWorld.h
+
+All other files were provided to us.
